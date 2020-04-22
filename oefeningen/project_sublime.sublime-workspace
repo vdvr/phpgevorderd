@@ -1,0 +1,347 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"TinyM",
+				"TinyMvc_Controller\t  Class"
+			],
+			[
+				"s",
+				"$sHtmlContent\t  string"
+			],
+			[
+				"comm",
+				"comm-block\tComment - Block style comment"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"phpdoc",
+				"Snippet: Comment - Section header Python comment"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"align",
+				"Preferences: Alignment Key Bindings – Default"
+			],
+			[
+				"alignm",
+				"Preferences: Alignment Key Bindings – Default"
+			],
+			[
+				"com",
+				"Commenter: Comment line"
+			],
+			[
+				"reind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"lsp",
+				"LSP: Next Diagnostic"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"settings",
+				"Preferences: Settings"
+			],
+			[
+				"keyb",
+				"Preferences: Key Bindings"
+			],
+			[
+				"intele",
+				"Preferences: LSP-intelephense Settings"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"scheme",
+				"UI: Select Color Scheme"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			],
+			[
+				"brows",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 193.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": false,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/oefeningen",
+		"/C/xampp/htdocs/oefeningen/myapp",
+		"/C/xampp/htdocs/oefeningen/myapp/configs",
+		"/C/xampp/htdocs/oefeningen/myapp/controllers",
+		"/C/xampp/htdocs/oefeningen/myapp/models",
+		"/C/xampp/htdocs/oefeningen/myapp/plugins",
+		"/C/xampp/htdocs/oefeningen/myapp/plugins/library",
+		"/C/xampp/htdocs/oefeningen/myapp/plugins/script",
+		"/C/xampp/htdocs/oefeningen/myapp/views",
+		"/C/xampp/htdocs/oefeningen/myapp/views/partialviews"
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/oefeningen/myapp/controllers/createCourse.php",
+		"/C/Users/Ronan Van Der Veken/Dropbox/College/UCLL/fase 2 vakken/Software Engineering 3/Programmeren in CSharp boek/h25/HighSalesEF/Repositories/MusicSalesContext.cs",
+		"/C/Users/Ronan Van Der Veken/Dropbox/College/UCLL/fase 2 vakken/Software Engineering 3/Programmeren in CSharp boek/h25/HighSalesEF/Repositories/ArtistRepository.cs",
+		"/C/Users/Ronan Van Der Veken/Dropbox/College/UCLL/fase 2 vakken/Software Engineering 3/Programmeren in CSharp boek/h25/HighSalesEF/Models/Artist.cs",
+		"/C/Users/Ronan Van Der Veken/Dropbox/College/UCLL/fase 2 vakken/Software Engineering 3/Programmeren in CSharp boek/h25/HighSalesEF/MainWindow.xaml.cs",
+		"/C/Users/Ronan Van Der Veken/Dropbox/College/UCLL/fase 2 vakken/Software Engineering 3/Programmeren in CSharp boek/h25/HighSalesEF/App.xaml.cs",
+		"/C/Users/Ronan Van Der Veken/source/repos/mqtt/mqtt/MainWindow.xaml.cs",
+		"/C/Users/Ronan Van Der Veken/Downloads/api.py",
+		"/C/Users/Ronan Van Der Veken/source/repos/mqtt/mqtt/Models/Payload.cs",
+		"/C/Users/Ronan Van Der Veken/source/repos/mqtt/mqtt/Models/Package.cs",
+		"/C/Users/Ronan Van Der Veken/Dropbox/College/UCLL/fase 2 vakken/Software Engineering 3/Ch18_Users_11_Database/Ch18_Users/Repositories/IUsersRepository.cs",
+		"/C/Users/Ronan Van Der Veken/Dropbox/College/UCLL/fase 2 vakken/Software Engineering 3/Ch18_Users_11_Database/Ch18_Users/MainWindow.xaml.cs",
+		"/C/Users/Ronan Van Der Veken/Dropbox/College/UCLL/fase 2 vakken/Software Engineering 3/Ch18_Users_11_Database/Ch18_Users/Repositories/DatabaseUsersRepository.cs",
+		"/C/Users/Ronan Van Der Veken/Dropbox/College/UCLL/fase 2 vakken/Software Engineering 3/Ch18_Users_11_Database/Ch18_Users/Models/User.cs",
+		"/C/Users/Ronan Van Der Veken/Dropbox/College/UCLL/fase 2 vakken/Software Engineering 3/Ch18_Users_11_Database/Ch18_Users/Models/UsersContext.cs",
+		"/C/Users/Ronan Van Der Veken/Dropbox/College/UCLL/fase 2 vakken/Software Engineering 3/ArtistBrowser_H24_4_Converter/ArtistBrowser/Repositories/ICompanyRepository.cs",
+		"/C/Users/Ronan Van Der Veken/Dropbox/College/UCLL/fase 2 vakken/Software Engineering 3/ArtistBrowser_H24_4_Converter/ArtistBrowser/Repositories/MockArtistRepository.cs",
+		"/C/Users/Ronan Van Der Veken/Dropbox/College/UCLL/fase 2 vakken/Software Engineering 3/ArtistBrowser_H24_4_Converter/ArtistBrowser/Repositories/MockCompanyRepository.cs",
+		"/C/Users/Ronan Van Der Veken/Dropbox/College/UCLL/fase 2 vakken/Software Engineering 3/ArtistBrowser_H24_4_Converter/ArtistBrowser/Repositories/IArtistRepository.cs",
+		"/C/Users/Ronan Van Der Veken/Dropbox/College/UCLL/fase 2 vakken/Software Engineering 3/ArtistBrowser_H24_4_Converter/ArtistBrowser/MainWindow.xaml.cs",
+		"/C/Users/Ronan Van Der Veken/Dropbox/College/UCLL/fase 2 vakken/Software Engineering 3/Ch18_Users_11_Database/Ch18_Users/Repositories/FileUsersRepository.cs",
+		"/D/1April/mqtt/mqtt.c",
+		"/C/Users/Ronan Van Der Veken/Downloads/mqtt.py",
+		"/C/Users/Ronan Van Der Veken/Dropbox/College/UCLL/fase 2 vakken/webcontrollers/mqtt.py",
+		"/C/Users/Ronan Van Der Veken/Dropbox/College/UCLL/fase 2 vakken/Software Engineering 3/Programmeren in CSharp boek/h25/MusicSales.sql",
+		"/C/xampp/htdocs/oefeningen/myapp/controllers/studentfiche.php",
+		"/C/xampp/htdocs/oefeningen/myapp/controllers/photolist.php",
+		"/C/xampp/htdocs/oefeningen/myapp/controllers/default.php",
+		"/C/xampp/htdocs/oefeningen/myapp/controllers/oefening1.php",
+		"/C/xampp/htdocs/oefeningen/myapp/controllers/lotto.php",
+		"/C/xampp/htdocs/oefeningen/myapp/configs/config_database.php",
+		"/C/Users/Ronan Van Der Veken/AppData/Roaming/Sublime Text 3/Packages/Alignment/Default (Windows).sublime-keymap",
+		"/C/Users/Ronan Van Der Veken/AppData/Roaming/Sublime Text 3/Packages/Terminal/Base File.sublime-settings",
+		"/C/xampp/htdocs/oefeningen/myapp/plugins/script/vdvr/menus/menugenerator.php",
+		"/C/xampp/htdocs/oefeningen/myapp/models/navigationmodel.php",
+		"/C/xampp/htdocs/oefeningen/myapp/controllers/createcourse.php",
+		"/C/xampp/htdocs/oefeningen/myapp/plugins/library/oefphp/student.php",
+		"/C/xampp/htdocs/oefeningen/myapp/plugins/library/oefphp/course.php",
+		"/C/xampp/htdocs/oefeningen/myapp/models/studentdatamodel.php",
+		"/C/xampp/htdocs/oefeningen/myapp/models/course.php",
+		"/C/Users/Ronan Van Der Veken/source/repos/Csharp4Les2/Csharp4Les2/MainWindow.xaml.cs",
+		"/C/Users/Ronan Van Der Veken/Dropbox/College/UCLL/fase 2 vakken/webcontrollers/embeddedWebcontrollers/python_api/api.py",
+		"/C/Users/Ronan Van Der Veken/Dropbox/College/UCLL/fase 2 vakken/webcontrollers/embeddedWebcontrollers/python_api/client.py",
+		"/D/1April/mqtt.py",
+		"/C/xampp/htdocs/oefeningen/myapp/models/homecontentmodel.php",
+		"/C/xampp/htdocs/oefeningen/myapp/views/partialviews/createcourse.php",
+		"/C/Users/Ronan Van Der Veken/Desktop/discogs.py",
+		"/C/Users/Ronan Van Der Veken/Dropbox/College/UCLL/fase 2 vakken/Xamarin/Muziek Catalogus App - voor verzamelaars.txt",
+		"/D/24Maart/repos/Delegates/Delegates/MainWindow.xaml.cs",
+		"/D/24Maart/repos/ToledoDelegates/Delegates/MainWindow.xaml.cs",
+		"/C/Users/Ronan Van Der Veken/AppData/Roaming/Sublime Text 3/Packages/commenter/commenter.py",
+		"/C/Users/Ronan Van Der Veken/AppData/Roaming/Sublime Text 3/Packages/commenter/Default.sublime-commands",
+		"/C/Users/Ronan Van Der Veken/Dropbox/dev/Nieuwe map/commenter.py"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 123.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Vanderlinden Luca",
+			"vanderlinden",
+			"vdvr",
+			"vanderlinden"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 47.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.diagnostics":
+	{
+		"height": 127.0
+	},
+	"output.exec":
+	{
+		"height": 243.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.language servers":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "project_sublime.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 37.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"xdebug":
+		{
+			"hide_conflict": false
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 237.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
